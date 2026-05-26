@@ -6,7 +6,7 @@ My Purpose Standeth Unchanged
 ![Linux](https://img.shields.io/badge/Linux-LARP-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-![Visitor Counter](https://komarev.com/ghvc/?username=jinsakai-j&color=E95420&style=for-the-badge)
+
 
 <!--
 **jinsakai-j/jinsakai-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
