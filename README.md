@@ -1,4 +1,5 @@
-## Hi there 👋
+## Welcome to My Page!
+My Purpose Standeth Unchanged
 
 <!--
 **jinsakai-j/jinsakai-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
