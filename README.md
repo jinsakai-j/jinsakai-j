@@ -1,8 +1,12 @@
-## Hi
+![Header](https://capsule-render.vercel.app/api?type=transparent&color=1e222b&height=220&section=header&text=SGksIFdlbGNvbWUgdG8gTXkgUGFnZQo=&fontSize=55&fontColor=E95420&fontAlignY=40)
+
 My Purpose Standeth Unchanged
 
 
 ![Linux](https://img.shields.io/badge/Linux-LARP-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+![Visitor Counter](https://komarev.com/ghvc/?username=jinsakai-j&color=E95420&style=for-the-badge)
 
 <!--
 **jinsakai-j/jinsakai-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
