@@ -3,7 +3,6 @@
 My Purpose Standeth Unchanged
 
 
-![Linux](https://img.shields.io/badge/Linux-LARP-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 
